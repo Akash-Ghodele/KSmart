@@ -1,2 +1,0 @@
-# KSmart
-Database integration project
